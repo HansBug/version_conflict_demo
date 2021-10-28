@@ -8,5 +8,5 @@ if __name__ == '__main__':
     k = 3
     k = 4
 
-    c = b * 3
+    c = a * 4
     print(c)
